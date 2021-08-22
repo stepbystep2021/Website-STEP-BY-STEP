@@ -1,5 +1,5 @@
 # stepbystep2021.github.io
-Наш первый хостинг https://stepbystep2021.github.io/Website-STEP-BY-STEP/
+Наш первый хостинг https://stepbystep2021.github.io/
 
 
 Наш Youtube канал https://www.youtube.com/channel/UCLb_RGE3cG4JMUvimWlnGSQ/playlists
